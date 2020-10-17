@@ -1,2 +1,2 @@
 # Fundamentos-PHP
-My firts programas with php 😜
+My firts lines with php 😜
