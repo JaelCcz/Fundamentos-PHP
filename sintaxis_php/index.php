@@ -27,6 +27,6 @@ echo "Exponencia 2 ** 2" . 2 ** 2;
 
 $app = 'name'; //name es un valor y podria servir de valor dinamico
 $name = "platzi";
-echo $app //imprimir el valor name
+echo $app; //imprimir el valor name
 
-echo $$app //imprimir el nombre de platzi
+echo $$app; //imprimir el nombre de platzi
