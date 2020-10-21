@@ -36,6 +36,7 @@
 </head>
 
 <body>
+<!-- contacto -->
   <div class="container">
     <div id="resume-header" class="row">
       <div class="col-3">
@@ -52,6 +53,7 @@
         </ul>
       </div>
     </div>
+<!-- Resumen de carrera -->
     <div class="row">
       <div class="col">
         <h2 class="border-bottom-gray" >Carrer Summary</h2>
@@ -61,6 +63,8 @@
         </p>
       </div>
     </div>
+
+<!-- experiencia -->
     <div class="row">
       <div class="col">
         <div>
@@ -99,6 +103,7 @@
                 </li>
           </ul>
         </div>
+<!-- Proyectos -->
         <div>
             <h3 class="border-bottom-gray">Projects</h3>
             <div class="project">
@@ -133,6 +138,7 @@
             </div>
           </div>
       </div>
+<!-- habilidades y herramientas -->
       <div class="col-3">
         <h3 class="border-bottom-gray" >Skills & Tools</h3>
         <h4>Backend</h4>
