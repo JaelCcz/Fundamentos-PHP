@@ -1,0 +1,16 @@
+{
+    "name": "jael/libreria",
+    "description": "Ejemplo composer",
+    "type": "libreria",
+    "require": {
+        "nesbot/carbon": "^2.0@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JaelCcz",
+            "email": "jaelcchz@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
